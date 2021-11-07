@@ -40,3 +40,5 @@ Detail can be found in the notebook. In a word, random guess has 2% accuracy, mo
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Data : [on Kaggle](https://www.kaggle.com/google/google-landmarks-dataset)
+
+Notebook: [here](https://github.com/boniu86/Udacity_DL_Project/blob/main/landmark.ipynb)
